@@ -1124,3 +1124,6 @@ dunia
 pas
 ko
 jgn
+bayangin
+kendaraan
+kendara
