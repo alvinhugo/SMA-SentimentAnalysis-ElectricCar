@@ -1121,3 +1121,6 @@ yah
 pesawat
 ice
 dunia
+pas
+ko
+jgn
